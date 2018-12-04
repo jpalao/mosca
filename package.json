@@ -69,6 +69,7 @@
     "ws": "^1.0.1"
   },
   "dependencies": {
+    "acorn": "^6.0.4",
     "array-from": "^2.1.1",
     "ascoltatori": "git+https://github.com/jpalao/ascoltatori.git",
     "brfs": "~1.4.2",
@@ -101,7 +102,7 @@
   "optionalDependencies": {
     "leveldown": "~1.4.3",
     "amqp": "~0.2.4",
-    "ioredis": "^1.15.1",
+    "ioredis": "^2.5.0",
     "mongodb": "~2.1.4"
   }
 }
