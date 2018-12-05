@@ -86,7 +86,7 @@
     "memdown": "~1.1.1",
     "minimatch": "~3.0.0",
     "moving-average": "0.1.1",
-    "mqtt": "2.18.8",
+    "mqtt": "^2.18.8",
     "mqtt-connection": "^2.1.1",
     "msgpack5": "^3.3.0",
     "nanoid": "^0.2.2",
@@ -103,6 +103,6 @@
     "leveldown": "~1.4.3",
     "amqp": "~0.2.4",
     "ioredis": "^2.5.0",
-    "mongodb": "~2.1.21"
+    "mongodb": "^2.2.36"
   }
 }
