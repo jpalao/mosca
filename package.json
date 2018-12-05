@@ -86,7 +86,7 @@
     "memdown": "~1.1.1",
     "minimatch": "~3.0.0",
     "moving-average": "0.1.1",
-    "mqtt": "2.11.0",
+    "mqtt": "2.18.8",
     "mqtt-connection": "^2.1.1",
     "msgpack5": "^3.3.0",
     "nanoid": "^0.2.2",

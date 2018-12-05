@@ -685,6 +685,7 @@ describe("mosca.Server - MQTT backend", function() {
       json: false,
       port: settings.port,
       keepalive: 3000,
+      defaultProtocol: "mqtt",
       host: "127.0.0.1",
       hostname: "127.0.0.1",
       mqtt: require("mqtt"),
@@ -695,6 +696,7 @@ describe("mosca.Server - MQTT backend", function() {
       connectTimeout: 30000,
       reconnectPeriod: 1000,
       reschedulePings: true,
+      resubscribe: true,
       wildcardSome: "#",
       wildcardOne: "+",
       protocolVersion: 4
